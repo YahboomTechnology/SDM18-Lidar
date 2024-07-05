@@ -1,4 +1,4 @@
-# Jetson NANO Robotic arm
+# YDLIDAR SDM18 Laser Ranging Module support ROS ROS2
 ![](https://github.com/YahboomTechnology/SDM18-Lidar/blob/main/SDM18_Module_Yahboom.jpg)
 # Introduction
 YDLIDAR SDM15/YDLIDAR SDM18 are two high-precision single-point laser ranging modules with smaller errors and better stability. Based on the TOF ranging principle, it is compact and lightweight and can be used in indoor and outdoor drone height-fixing and obstacle avoidance, robot obstacle avoidance, home service robot/sweeping robot navigation and obstacle avoidance and other usage scenarios. Yahboom provide many tutorials and codes based on Linux, ROS, and STM32 for users reference.
